@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658631378365",
+    "project_id": "login-register-firebase2-49f28",
+    "storage_bucket": "login-register-firebase2-49f28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658631378365:android:28e49e81b4b79e3643fed4",
+        "android_client_info": {
+          "package_name": "com.example.isangeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658631378365-cb3c0ii3pi55ef25q5j75nsm77r2gf8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnmCfzPVuVF_TFHh4YAXSQKOJn_fdqaN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658631378365-cb3c0ii3pi55ef25q5j75nsm77r2gf8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
