@@ -1,2 +1,3 @@
 # Isangeet
-Java-based system facilitating seamless appointment booking, cancellation, and illness description submission for patients, while enabling doctors to log in, accept appointments, and efficiently manage schedules.
+
+Designed and developed a feature-rich music streaming app with Firebase integration, allowing users to seamlessly stream music, manage local audio files, create personalized playlists, like favorite songs, and share music effortlessly.
